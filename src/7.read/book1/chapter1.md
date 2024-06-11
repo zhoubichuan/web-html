@@ -7,8 +7,8 @@ meta:
   - name: keywords
     content: vuepress,最新技术文档,vuepress语法,markdown语法
 ---
-# 第一章: 什么是JavaScript
-- 完整的JavaScript包含以下几个部分
+# 第一章: 什么是html
+- 完整的html包含以下几个部分
   - 核心（ECMAScript）
   - 文档对象模型（DOM）
   - 浏览器对象模型（BOM）

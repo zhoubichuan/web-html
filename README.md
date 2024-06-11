@@ -1,9 +1,9 @@
-# JavaScript 学习笔记
+# html 学习笔记
 
 ![](./src/.vuepress/public/home.png)
 
 - 基础知识
-  - [三.javascript](./base/vue2.x/1.index.html)
+  - [三.html](./base/vue2.x/1.index.html)
 - 进阶知识
   - [一.H5](./senior/component/1.index.html)
   - [二.数据类型](./senior/typescript/1.index.html)

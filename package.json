@@ -1,10 +1,10 @@
 {
-  "name": "web-javascript",
+  "name": "web-html",
   "version": "1.0.0",
-  "description": "JavaScript学习笔记",
+  "description": "html学习笔记",
   "main": "index.js",
   "author": "zhoubichaun@icloud.com",
-  "hommepage": "https://github.com/zhoubichuan/web-javascript/",
+  "hommepage": "https://github.com/zhoubichuan/web-html/",
   "private": false,
   "license": "MIT",
   "scripts": {

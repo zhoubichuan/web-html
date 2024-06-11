@@ -5,10 +5,10 @@ heroImage: ./home.png
 actionText: 先睹为快 →
 actionLink: /1.base/1.js/1.index.html
 pageClass: page_index
-footer: JavaScript相关知识
+footer: html相关知识
 meta:
   - name: keywords
-    content: JavaScript相关,前端学习,前端笔记
+    content: html相关,前端学习,前端笔记
 ---
 
 <template>
@@ -17,7 +17,7 @@ meta:
         <div class="features">
         <div class="feature">
             <h2>初级知识</h2> 
-            <p>掌握javascript基础、认识dom以及bom</p>
+            <p>掌握html基础、认识dom以及bom</p>
         </div>
         <div class="feature">
             <h2>中级知识</h2> 
@@ -33,7 +33,7 @@ meta:
         </div>
         <div class="feature">
             <h2>场景知识</h2> 
-            <p>《JavaScript高级程序设计（第4版）》、《JavaScript DOM编程艺术》、《你不知道的JavaScript》、《JavaScript设计模式与开发实践》、《高性能JavaScript》</p>
+            <p>《html高级程序设计（第4版）》、《html DOM编程艺术》、《你不知道的html》、《html设计模式与开发实践》、《高性能html》</p>
         </div>
         <div class="feature">
             <h2>原理知识</h2> 

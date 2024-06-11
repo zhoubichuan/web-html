@@ -1,5 +1,5 @@
 const sidebar = {
-  "/1.base/1.ECMAScript/": [
+  "/1.base/1.html/": [
     "1.index",
     "1.syntax",
     "2.expression",
@@ -15,7 +15,7 @@ const sidebar = {
     "12.require",
     "13.new",
   ],
-  "/1.base/2.ECMAScript6/": [
+  "/1.base/2.html/": [
     "1.index",
     "1.scope",
     "2.constant",
@@ -30,7 +30,7 @@ const sidebar = {
     "11.promise",
 
   ],
-  "/1.base/3.JavaScript/": [
+  "/1.base/3.html/": [
     "1.index",
   ],
   "/2.advanced/1.h5/": [

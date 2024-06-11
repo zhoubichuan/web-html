@@ -198,6 +198,9 @@ export default {
 };
 </script>
 <style scoped lang="less">
+.rich{
+  -webkit-user-modify: read-only;
+}
 .demo-block {
   position: relative;
   border: solid 1px #ebebeb;

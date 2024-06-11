@@ -1,6 +1,6 @@
 {
-    "name": "JavaScript 学习笔记",
-    "short_name": "web-javascript",
+    "name": "html 学习笔记",
+    "short_name": "web-html",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#2196f3",
