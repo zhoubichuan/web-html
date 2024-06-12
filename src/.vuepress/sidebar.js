@@ -32,9 +32,26 @@ const sidebar = {
   ],
   "/1.base/3.html/": [
     "1.index",
-  ],
+    "1.grammar",
+    "2.morphology",
+    "3.context",
+    "4.variableobj",
+    "5.scope",
+    "6.closure",
+    "7.this"
+],
   "/2.advanced/1.h5/": [
     "1.index",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
   ],
   "/2.advanced/2.js/": [
     "1.index",
