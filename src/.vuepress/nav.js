@@ -20,7 +20,7 @@ const nav = [
         text: '中级知识',
         items: [
             {
-                text: "一.h5",
+                text: "一.h5开发",
                 link: "/2.advanced/1.h5/1.index",
               },
             {
