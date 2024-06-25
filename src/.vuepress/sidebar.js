@@ -80,9 +80,10 @@ const sidebar = {
     "11.transform",
     "12.copy",
   ],
-  // "/2.advanced/6.es6/": [
-  //   "1.index",
-  // ],
+  "/2.advanced/6.canvas/": [
+    "1.index",
+    "2.promise"
+  ],
   "/3.senior/2.design/": [
     "1.index",
     "1.factory",

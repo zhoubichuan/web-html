@@ -1,6 +1,6 @@
 const nav = [
     {
-        text: '基础知识',
+        text: 'html',
         items: [
             {
                 text: '一.html基础',
@@ -17,24 +17,24 @@ const nav = [
         ]
     },
     {
-        text: '中级知识',
+        text: 'html5',
         items: [
             {
                 text: "一.h5开发",
                 link: "/2.advanced/1.h5/1.index",
               },
             {
-                text: '一.html5',
+                text: '二.html5',
                 link: '/2.advanced/2.js/1.index'
             },
             {
-                text: '二.移动端',
+                text: '三.移动端',
                 link: '/2.advanced/3.type/1.index',
             },
-            // {
-            //     text: '三.ES6重点',
-            //     link: '/2.advanced/6.es6/1.index'
-            // }
+            {
+                text: '四.canvas案例',
+                link: '/2.advanced/6.canvas/1.index'
+            }
         ]
     },
     // {
