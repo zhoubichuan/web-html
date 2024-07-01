@@ -1,6 +1,6 @@
 ---
 lang: zh-CN
-sidebarDepth: 2
+sidebarDepth: 1
 meta:
   - name: description
     content: 个人总结的vuepress学习技术文档-语法
@@ -8,4 +8,5 @@ meta:
     content: vuepress,最新技术文档,vuepress语法,markdown语法
 ---
 
-# 十五.
+# 存储(sessionStorage)
+

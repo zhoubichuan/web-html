@@ -15,6 +15,18 @@ const sidebar = {
     "12.require",
     "13.new",
   ],
+  "/1.base/2.html5/": [
+    "1.index",
+    "1.compile",
+    "2.morphology",
+    "3.context",
+    "4.variableobj",
+    "5.scope",
+    "6.video",
+    "7.audio",
+    "8.async",
+    "9.eventloop",
+  ],
   "/1.base/2.html/": [
     "1.index",
     "1.scope",
@@ -30,7 +42,7 @@ const sidebar = {
     "11.promise",
 
   ],
-  "/1.base/3.html/": [
+  "/1.base/3.dom/": [
     "1.index",
     "1.grammar",
     "2.morphology",
@@ -52,18 +64,6 @@ const sidebar = {
     "8",
     "9",
     "10",
-  ],
-  "/2.advanced/2.js/": [
-    "1.index",
-    "1.compile",
-    "2.morphology",
-    "3.context",
-    "4.variableobj",
-    "5.scope",
-    "6.video",
-    "7.audio",
-    "8.async",
-    "9.eventloop",
   ],
   "/2.advanced/3.type/": [
     "1.index",

@@ -1,32 +1,32 @@
 const nav = [
     {
-        text: 'html',
+        text: '基础知识',
         items: [
             {
-                text: '一.html基础',
+                text: '一.html',
                 link: '/1.base/1.html/1.index'
             },
             {
-                text: '二.html媒体',
-                link: '/1.base/2.html/1.index'
+                text: '二.html5',
+                link: '/1.base/2.html5/1.index'
             },
+            // {
+            //     text: '二.html媒体',
+            //     link: '/1.base/2.html/1.index'
+            // },
             {
-                text: '三.dom对象',
-                link: '/1.base/3.html/1.index'
+                text: '三.dom',
+                link: '/1.base/3.dom/1.index'
             }
         ]
     },
     {
-        text: 'html5',
+        text: '进阶知识',
         items: [
             {
                 text: "一.h5开发",
                 link: "/2.advanced/1.h5/1.index",
               },
-            {
-                text: '二.html5',
-                link: '/2.advanced/2.js/1.index'
-            },
             {
                 text: '三.移动端',
                 link: '/2.advanced/3.type/1.index',
@@ -37,27 +37,27 @@ const nav = [
             }
         ]
     },
-    // {
-    //     text: '专项知识',
-    //     items: [
-    //         {
-    //             text: '一.设计模式',
-    //             link: '/3.senior/2.design/1.index',
-    //         },
-    //         {
-    //             text: '二.性能优化',
-    //             link: '/3.senior/5.optimize/1.index'
-    //         },
-    //         {
-    //             text: '三.前端调试',
-    //             link: '/3.senior/6.debugger/1.index'
-    //         },
-    //         {
-    //             text: '四.跨域方式',
-    //             link: '/3.senior/7.cross/1.index',
-    //         },
-    //     ]
-    // },
+    {
+        text: '综合案例',
+        items: [
+            {
+                text: '一.设计模式',
+                link: '/3.senior/2.design/1.index',
+            },
+            // {
+            //     text: '二.性能优化',
+            //     link: '/3.senior/5.optimize/1.index'
+            // },
+            // {
+            //     text: '三.前端调试',
+            //     link: '/3.senior/6.debugger/1.index'
+            // },
+            // {
+            //     text: '四.跨域方式',
+            //     link: '/3.senior/7.cross/1.index',
+            // },
+        ]
+    },
     // {
     //     text: 'html引擎',
     //     items: [
