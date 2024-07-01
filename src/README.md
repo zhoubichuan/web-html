@@ -16,28 +16,16 @@ meta:
         <div id="large-header" class="large-header"></div>
         <div class="features">
         <div class="feature">
-            <h2>初级知识</h2> 
-            <p>掌握html基础、认识dom以及bom</p>
+            <h2>基础知识</h2> 
+            <p>掌握html基础、掌握html5新特性、掌握dom相关知识点</p>
         </div>
         <div class="feature">
-            <h2>中级知识</h2> 
-            <p>熟练掌握性能优化、代码规范、前端监控、安全防范、断点续传、设计模式、跨域方式、前端测试、网络请求、正则相关</p>
+            <h2>进阶知识</h2> 
+            <p>掌握h5开发</p>
         </div>
         <div class="feature">
-            <h2>高级知识</h2> 
-            <p>掌握网络请求、WebApp、Sass</p>
-        </div>
-        <div class="feature">
-            <h2>专项知识</h2> 
-            <p>熟练掌握性能优化、代码规范、前端监控、安全防范、断点续传、设计模式、跨域方式、前端测试、网络请求、正则相关</p>
-        </div>
-        <div class="feature">
-            <h2>场景知识</h2> 
-            <p>《html高级程序设计（第4版）》、《html DOM编程艺术》、《你不知道的html》、《html设计模式与开发实践》、《高性能html》</p>
-        </div>
-        <div class="feature">
-            <h2>原理知识</h2> 
-            <p>掌握浏览器、Promise等相关原理</p>
+            <h2>综合案例</h2> 
+            <p>掌握相关标签特性案例</p>
         </div>
         </div>
     </div>
