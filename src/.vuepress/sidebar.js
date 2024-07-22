@@ -82,7 +82,8 @@ const sidebar = {
   ],
   "/2.advanced/6.canvas/": [
     "1.index",
-    "2.promise"
+    "2.promise",
+    "3.pdf"
   ],
   "/3.senior/2.design/": [
     "1.index",
