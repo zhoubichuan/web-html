@@ -24,6 +24,12 @@ module.exports = {
         src: "https://webapi.amap.com/ui/1.1/main.js?v=1.1.1",
       },
     ],
+    [
+      "script",
+      {
+        src: "https://cdn.jsdelivr.net/npm/vue/dist/vue.js",
+      },
+    ],
   ],
   define: {
     env: {
